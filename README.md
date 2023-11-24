@@ -1,4 +1,4 @@
-# TCS-codevita-Question-ANS
+# Online Shopping TCS-codevita-Question-Answer
 Online Shopping
 Problem Description
 An online shopping store announced an offer for the upcoming festive season. In order to avail that offer, we have to collect the tokens for n consecutive days and using those tokens, we can buy items in the sale.
